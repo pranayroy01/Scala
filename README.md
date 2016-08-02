@@ -4,8 +4,8 @@ Coursera: Functional Programming Principles in Scala
 [![Build Status](https://travis-ci.org/drolando/scala-coursera.svg?branch=master)](https://travis-ci.org/drolando/scala-coursera)
 
 *This course introduces the cornerstones of functional programming using the Scala programming language. Functional
-programming has become more and more popular in recent years because it promotes code that’s safe, concise, and elegant.
-Furthermore, functional programming makes it easier to write parallel code for today’s and tomorrow’s multiprocessors
+programming has become more and more popular in recent years because it promotes code that???s safe, concise, and elegant.
+Furthermore, functional programming makes it easier to write parallel code for today???s and tomorrow???s multiprocessors
 by replacing mutable variables and loops with powerful ways to define and compose functions.*
 
 *In this course you will discover the elements of the functional programming style and learn how to apply them usefully
@@ -17,5 +17,6 @@ This repository contains my solutions for the projects for the
 [Coursera](https://www.coursera.org/).
 
 ## Assignments
-1. [Recursion](https://github.com/drolando/scala-coursera/tree/master/recfun): simple exercises on recursion: print Pascal's triangle and parenthesis balancing.
-2. [Higher Order Functions](https://github.com/drolando/scala-coursera/tree/master/funsets): in this assignment, you will work with a functional representation of sets based on the mathematical notion of characteristic functions. The goal is to gain practice with higher-order functions.
+1. [Recursion](https://github.com/pranayroy01/Scala/tree/master/recfun): simple exercises on recursion: print Pascal's triangle and parenthesis balancing.
+2. [Higher Order Functions](https://github.com/pranayroy01/Scala/tree/master/funsets): in this assignment, you will work with a functional representation of sets based on the mathematical notion of characteristic functions. The goal is to gain practice with higher-order functions.
+3.[Data and Abstraction](https://github.com/pranayroy01/Scala/tree/master/objsets): in this assignment you will work with an object-oriented representations based on binary trees.
