@@ -19,4 +19,4 @@ This repository contains my solutions for the projects for the
 ## Assignments
 1. [Recursion](https://github.com/pranayroy01/Scala/tree/master/recfun): simple exercises on recursion: print Pascal's triangle and parenthesis balancing.
 2. [Higher Order Functions](https://github.com/pranayroy01/Scala/tree/master/funsets): in this assignment, you will work with a functional representation of sets based on the mathematical notion of characteristic functions. The goal is to gain practice with higher-order functions.
-3.[Data and Abstraction](https://github.com/pranayroy01/Scala/tree/master/objsets): in this assignment you will work with an object-oriented representations based on binary trees.
+3. [Data and Abstraction](https://github.com/pranayroy01/Scala/tree/master/objsets): in this assignment you will work with an object-oriented representations based on binary trees.
